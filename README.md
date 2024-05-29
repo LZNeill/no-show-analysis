@@ -18,4 +18,5 @@ The top 3 feature importances extracted from the model in rank order were:
 3. The date interval, or wait time between the date the appointment is made and the date of the actual appointment, was third with a normalized weight of 0.017.  
 
 To view a rendering of this Jupyter Notebook from nbviewer that allows function of the embedded links,  please visit the link below. 
+
 [nbviewer](https://nbviewer.org/github/LZNeill/no-show-analysis/blob/5ca9df3063eac0b94772ff1bc7ba036432dd3d0a/No%20Show%20Appointment%20Jupyter%20Notebook.ipynb#top)
